@@ -1,0 +1,5 @@
+e:\щтоу\onedrive\documents\visual studio 2017\Projects\Anonimous Methods\Anonimous Methods\bin\Debug\Anonimous Methods.exe.config
+e:\щтоу\onedrive\documents\visual studio 2017\Projects\Anonimous Methods\Anonimous Methods\bin\Debug\Anonimous Methods.exe
+e:\щтоу\onedrive\documents\visual studio 2017\Projects\Anonimous Methods\Anonimous Methods\bin\Debug\Anonimous Methods.pdb
+e:\щтоу\onedrive\documents\visual studio 2017\Projects\Anonimous Methods\Anonimous Methods\obj\Debug\Anonimous Methods.exe
+e:\щтоу\onedrive\documents\visual studio 2017\Projects\Anonimous Methods\Anonimous Methods\obj\Debug\Anonimous Methods.pdb

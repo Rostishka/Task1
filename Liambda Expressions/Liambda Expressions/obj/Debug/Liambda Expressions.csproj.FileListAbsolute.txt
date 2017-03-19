@@ -1,0 +1,6 @@
+e:\щтоу\onedrive\documents\visual studio 2017\Projects\Liambda Expressions\Liambda Expressions\bin\Debug\Liambda Expressions.exe.config
+e:\щтоу\onedrive\documents\visual studio 2017\Projects\Liambda Expressions\Liambda Expressions\bin\Debug\Liambda Expressions.exe
+e:\щтоу\onedrive\documents\visual studio 2017\Projects\Liambda Expressions\Liambda Expressions\bin\Debug\Liambda Expressions.pdb
+e:\щтоу\onedrive\documents\visual studio 2017\Projects\Liambda Expressions\Liambda Expressions\obj\Debug\Liambda Expressions.csprojResolveAssemblyReference.cache
+e:\щтоу\onedrive\documents\visual studio 2017\Projects\Liambda Expressions\Liambda Expressions\obj\Debug\Liambda Expressions.exe
+e:\щтоу\onedrive\documents\visual studio 2017\Projects\Liambda Expressions\Liambda Expressions\obj\Debug\Liambda Expressions.pdb

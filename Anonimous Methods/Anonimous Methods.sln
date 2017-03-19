@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anonimous Methods", "Anonimous Methods\Anonimous Methods.csproj", "{3213821C-3574-49A7-B7B7-150687A3ECCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3213821C-3574-49A7-B7B7-150687A3ECCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3213821C-3574-49A7-B7B7-150687A3ECCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3213821C-3574-49A7-B7B7-150687A3ECCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3213821C-3574-49A7-B7B7-150687A3ECCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

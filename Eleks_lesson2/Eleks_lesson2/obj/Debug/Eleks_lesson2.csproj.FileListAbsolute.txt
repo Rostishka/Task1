@@ -1,0 +1,6 @@
+e:\щтоу\onedrive\documents\visual studio 2017\Projects\Eleks_lesson2\Eleks_lesson2\bin\Debug\Eleks_lesson2.exe.config
+e:\щтоу\onedrive\documents\visual studio 2017\Projects\Eleks_lesson2\Eleks_lesson2\bin\Debug\Eleks_lesson2.exe
+e:\щтоу\onedrive\documents\visual studio 2017\Projects\Eleks_lesson2\Eleks_lesson2\bin\Debug\Eleks_lesson2.pdb
+e:\щтоу\onedrive\documents\visual studio 2017\Projects\Eleks_lesson2\Eleks_lesson2\obj\Debug\Eleks_lesson2.csprojResolveAssemblyReference.cache
+e:\щтоу\onedrive\documents\visual studio 2017\Projects\Eleks_lesson2\Eleks_lesson2\obj\Debug\Eleks_lesson2.exe
+e:\щтоу\onedrive\documents\visual studio 2017\Projects\Eleks_lesson2\Eleks_lesson2\obj\Debug\Eleks_lesson2.pdb

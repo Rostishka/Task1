@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eleks_lesson2", "Eleks_lesson2\Eleks_lesson2.csproj", "{2FD19292-2306-4070-B569-8E8A1007C3D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexators", "Indexators\Indexators.csproj", "{A1477EE7-BEE0-4585-8E6E-8627767A3850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FD19292-2306-4070-B569-8E8A1007C3D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD19292-2306-4070-B569-8E8A1007C3D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD19292-2306-4070-B569-8E8A1007C3D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD19292-2306-4070-B569-8E8A1007C3D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1477EE7-BEE0-4585-8E6E-8627767A3850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1477EE7-BEE0-4585-8E6E-8627767A3850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1477EE7-BEE0-4585-8E6E-8627767A3850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1477EE7-BEE0-4585-8E6E-8627767A3850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

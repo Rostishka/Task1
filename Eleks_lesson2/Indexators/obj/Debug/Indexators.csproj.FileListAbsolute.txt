@@ -1,0 +1,6 @@
+e:\щтоу\onedrive\documents\visual studio 2017\Projects\Eleks_lesson2\Indexators\bin\Debug\Indexators.exe.config
+e:\щтоу\onedrive\documents\visual studio 2017\Projects\Eleks_lesson2\Indexators\bin\Debug\Indexators.exe
+e:\щтоу\onedrive\documents\visual studio 2017\Projects\Eleks_lesson2\Indexators\bin\Debug\Indexators.pdb
+e:\щтоу\onedrive\documents\visual studio 2017\Projects\Eleks_lesson2\Indexators\obj\Debug\Indexators.csprojResolveAssemblyReference.cache
+e:\щтоу\onedrive\documents\visual studio 2017\Projects\Eleks_lesson2\Indexators\obj\Debug\Indexators.exe
+e:\щтоу\onedrive\documents\visual studio 2017\Projects\Eleks_lesson2\Indexators\obj\Debug\Indexators.pdb
